@@ -1,0 +1,5 @@
+offset = 4 + tesla
+location = 1 + origin + offset + tesla
+origin = 3 + 5
+random = tesla
+tesla = 4
